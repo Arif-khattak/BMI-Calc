@@ -1,0 +1,11 @@
+.container {
+  margin-top: 30px;
+  height: 400px;
+  display: flex;
+  align-content: space-between;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
